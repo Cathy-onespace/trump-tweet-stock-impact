@@ -22,7 +22,7 @@ Python (Pandas, NumPy, Matplotlib, Statsmodels)
 - No systematic long-term persistence
 
 ## Visualizations
-(Insert sample images)
+(Find in slides)
 
 ## Conclusion
 Market reaction is sector-specific and short-lived.
