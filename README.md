@@ -10,7 +10,7 @@ To analyze whether Trump's tweets have statistically significant impact on secto
 
 ## Methodology
 - Event study framework
-- Market model for abnormal return, volatility, volume
+- Market model for abnormal return, volatility
 - 1-hour(short term,(-1h, +h)) and 5-day(long term,(-5d,+5d)) event window
 - t-test for significance
 
