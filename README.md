@@ -18,8 +18,7 @@ To analyze whether Trump's tweets have statistically significant impact on secto
 Python (Pandas, NumPy, Matplotlib, Statsmodels)
 
 ## Key Findings
-- Short-term spikes in High-Tech and information-sensitive sector.
-- Effects concentrated rather than market-wide
+- Short-term spikes in High-Tech and information-sensitive sector.Effects concentrated rather than market-wide
 - No systematic long-term persistence
 
 ## Visualizations
